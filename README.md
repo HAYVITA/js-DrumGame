@@ -1,1 +1,1 @@
-# js-DrumGame
+# jsDrumGame
